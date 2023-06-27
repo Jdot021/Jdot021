@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jdot021
-- 👀 Computer Science Major, Class of 2023
-- 🌱 Auburn University
+<h1 align="center"> Hey, I'm Jonathan</h1>
+<h4 align="center"> Computer Science Major</h4>
+<h4 align="center"> Auburn University</h4>
 - 💞️ I’m looking to develop my coding skills.
 
 - ## Current Project
