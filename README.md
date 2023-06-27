@@ -3,7 +3,7 @@
 - 🌱 Auburn University
 - 💞️ I’m looking to develop my coding skills.
 
-[![Spotify](https://jdot021.vercel.app/api/spotify)](https://open.spotify.com/user/1215525796)
+[[Spotify](https://jdot021.vercel.app/api/spotify)](https://open.spotify.com/user/1215525796)
 
 
 
