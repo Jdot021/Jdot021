@@ -1,7 +1,13 @@
 <h1 align="center"> Hey, I'm Jonathan</h1>
 <h4 align="center"> Computer Science Major</h4>
 <h4 align="center"> Auburn University</h4>
-- 💞️ I’m looking to develop my coding skills.
+
+## Hobbies
+- Learning Coding
+- Cars (working on or driving)
+- Videogames
+- Music
+- 
 
 - ## Current Project
 - [Employee Managment System](https://github.com/Jdot021/EmployeeManagmentSystem)
