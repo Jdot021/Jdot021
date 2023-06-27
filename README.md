@@ -1,8 +1,7 @@
 <h1 align="center"> Hey, I'm Jonathan</h1>
 <h4 align="center"> Computer Science Major</h4>
 <h4 align="center"> Auburn University</h4>
-[LinkedIn](https://www.linkedin.com/in/jonathan-ford-174844264/)
-[Discord](https://discordapp.com/users/jdot021)
+<a href="https://www.linkedin.com/in/jonathan-ford-174844264/">[Linkedin]</a> <a href="https://discordapp.com/users/jdot021/">[Discord]</a>
 
 ## Hobbies
 - Learning Coding
