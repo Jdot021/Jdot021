@@ -6,7 +6,7 @@
 - [![Spotify](https://jdot021.vercel.app/api/spotify)](https://open.spotify.com/user/1215525796)
 - 
 - ### Spotify Playing
-- [<img_src="https://https://novatoremapi-jdot021.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350 />](https://open.spotify.com/user/1215525796>)
+- [<img_src="https://https://novatoremapi-jdot021.vercel.app/api/spotify" alt="Spotify Now Playing" width="350 />](https://open.spotify.com/user/1215525796>)
 
 
 <!---
