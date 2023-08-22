@@ -11,7 +11,8 @@
 - 
 
 - ## Current Project
-- [Employee Managment System](https://github.com/Jdot021/EmployeeManagmentSystem)
+- [Employee Managment System(java)](https://github.com/Jdot021/EmployeeManagmentSystem)
+- [Employee Managment System(python)](https://github.com/Jdot021/EmployeeSystemPython.git)
 - [Chess Game]
 
 &nbsp;<div align="center">
